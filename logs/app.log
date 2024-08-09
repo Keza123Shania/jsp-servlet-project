@@ -1,0 +1,38 @@
+2024-08-09 12:58:59 INFO  ContactServlet:31 - ContactServlet started
+2024-08-09 12:58:59 INFO  ContactServlet:38 - Received contact submission with the following details:
+2024-08-09 12:58:59 INFO  ContactServlet:39 - First Name: sh
+2024-08-09 12:58:59 INFO  ContactServlet:40 - Last Name: boon
+2024-08-09 12:58:59 INFO  ContactServlet:41 - Email: da8@gmail.com
+2024-08-09 12:58:59 INFO  ContactServlet:42 - Subject: hello
+2024-08-09 12:58:59 INFO  ContactServlet:43 - Message: hi
+2024-08-09 12:58:59 INFO  ContactServlet:57 - Rows affected: 1
+2024-08-09 12:58:59 INFO  ContactServlet:60 - Contact submission successful, redirecting to thank you page.
+2024-08-09 13:00:31 INFO  ContactServlet:31 - ContactServlet started
+2024-08-09 13:00:31 INFO  ContactServlet:38 - Received contact submission with the following details:
+2024-08-09 13:00:31 INFO  ContactServlet:39 - First Name: sh
+2024-08-09 13:00:31 INFO  ContactServlet:40 - Last Name: boon
+2024-08-09 13:00:31 INFO  ContactServlet:41 - Email: da8@gmail.com
+2024-08-09 13:00:31 INFO  ContactServlet:42 - Subject: hello
+2024-08-09 13:00:31 INFO  ContactServlet:43 - Message: hi
+2024-08-09 13:00:31 INFO  ContactServlet:57 - Rows affected: 1
+2024-08-09 13:00:31 INFO  ContactServlet:60 - Contact submission successful, redirecting to thank you page.
+2024-08-09 13:00:48 INFO  ContactServlet:31 - ContactServlet started
+2024-08-09 13:00:48 INFO  ContactServlet:38 - Received contact submission with the following details:
+2024-08-09 13:00:48 INFO  ContactServlet:39 - First Name: bonna
+2024-08-09 13:00:48 INFO  ContactServlet:40 - Last Name: boon
+2024-08-09 13:00:48 INFO  ContactServlet:41 - Email: da8@gmail.com
+2024-08-09 13:00:48 INFO  ContactServlet:42 - Subject: hello
+2024-08-09 13:00:48 INFO  ContactServlet:43 - Message: hi
+2024-08-09 13:00:48 INFO  ContactServlet:57 - Rows affected: 1
+2024-08-09 13:00:48 INFO  ContactServlet:60 - Contact submission successful, redirecting to thank you page.
+2024-08-09 13:28:27 INFO  BookingServlet:37 - BookingServlet started
+2024-08-09 13:28:27 INFO  BookingServlet:45 - Received parameters:
+2024-08-09 13:28:27 INFO  BookingServlet:46 - Name: Keza 
+2024-08-09 13:28:27 INFO  BookingServlet:47 - Email: kezashania5@gmail.com
+2024-08-09 13:28:27 INFO  BookingServlet:48 - Phone: 250785490284
+2024-08-09 13:28:27 INFO  BookingServlet:49 - Date: 2003-01-02
+2024-08-09 13:28:27 INFO  BookingServlet:50 - Time: 00:10
+2024-08-09 13:28:27 INFO  BookingServlet:51 - Additional Info: hi
+2024-08-09 13:28:28 INFO  BookingServlet:54 - Database connection established
+2024-08-09 13:28:28 INFO  BookingServlet:69 - Rows affected: 1
+2024-08-09 13:28:28 INFO  BookingServlet:72 - Booking successful, redirecting to thank you page
